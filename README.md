@@ -1,7 +1,6 @@
 # Azure Functions Docker image with support for Puppeteer
 
-[![Pulls from Docker Hub](https://img.shields.io/docker/pulls/estruyf/azure-function-node-puppeteer.svg)](https://hub.docker.com/r/estruyf/azure-function-node-puppeteer)
-[![Stars on Docker Hub](https://img.shields.io/docker/stars/estruyf/azure-function-node-puppeteer.svg)](https://hub.docker.com/r/estruyf/azure-function-node-puppeteer)
+[![Pulls from Docker Hub](https://img.shields.io/docker/pulls/estruyf/azure-function-node-puppeteer.svg)](https://hub.docker.com/r/estruyf/azure-function-node-puppeteer) [![Stars on Docker Hub](https://img.shields.io/docker/stars/estruyf/azure-function-node-puppeteer.svg)](https://hub.docker.com/r/estruyf/azure-function-node-puppeteer)
 
 ## Why use this image?
 
